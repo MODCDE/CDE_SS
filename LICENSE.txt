@@ -337,3 +337,9 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
+
+---------------------------------------------------------------------------
+
+All custom code is Copyright (c) 2015 HM Government (Ministry of Defence),
+and released under the Open Government Licence v3. Full details at 
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
